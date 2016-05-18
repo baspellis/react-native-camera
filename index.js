@@ -4,7 +4,6 @@ import {
   DeviceEventEmitter,
   Platform,
   NativeModules,
-  Platform,
   StyleSheet,
   requireNativeComponent,
   View,
